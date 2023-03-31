@@ -44,4 +44,5 @@ function get_html_message(name){
     return ` ${name}! The required result obtained...! `
 }
 
-send_mail('Hello', 'fonop35937@kaudat.com')
+// send_mail('Hello', 'fonop35937@kaudat.com')
+send_mail('Hello', 'tintukjohn@hotmail.com')
